@@ -1,8 +1,8 @@
-[![Heade](https://github.com/malankinAM/malankinAM/blob/main/assets/1800-removebg-preview.png)](https://t.me/Alaska_alex_agp)
+[![Header](https://github.com/malankinAM/malankinAM/blob/main/assets/1800-removebg-preview.png)](https://t.me/Alaska_alex_agp)
 
 ##I am a beginner Frontend Developer
 
-laters video telegram
+### laters video telegram
 
 ### languages and Tools
 
@@ -14,3 +14,5 @@ laters video telegram
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=blueviolet)](https://t.me/+QIHgKtSk-vtiNjli)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malankinAM&show_icons=true&theme=transparent)](https://github.com/malankinAM)
