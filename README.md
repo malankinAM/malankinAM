@@ -13,4 +13,4 @@ laters video telegram
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=REACT&logoColor=blueviolet)
 
 ### Follow Me
-    [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=blueviolet)](https://t.me/+QIHgKtSk-vtiNjli)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=blueviolet)](https://t.me/+QIHgKtSk-vtiNjli)
