@@ -15,4 +15,6 @@
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=blueviolet)](https://t.me/+QIHgKtSk-vtiNjli)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malankinAM&layout=compact)](https://github.com/malankinAM)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malankinAM&show_icons=true&theme=gruvbox)](https://github.com/malankinAM)
