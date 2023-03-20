@@ -17,7 +17,7 @@
 
 - :zap: Хочу освоить новую проффесию и найти работу.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alaska_alex_agp) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alaska.alex.agp@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Alaska.Alex-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alaska_alex_agp) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alaska.alex.agp@gmail.com)
 
 ---
 
