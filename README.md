@@ -76,7 +76,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Alaska.alex.agp)
+![codewars](https://www.codewars.com/users/Alaska.alex.agp/badges/large)
 
 ### ⚙️ GitHub статистика:
 
