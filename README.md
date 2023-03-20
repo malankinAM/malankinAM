@@ -15,7 +15,7 @@
 
 - :seedling: Очень хочу попасть в Школу 21 и попаду на основное обучение.
 
-- :zap: Хочу освоить новую проффесию и найти работу.
+- :zap: Хочу освоить новую проффесию web дизайнер и изучить EN
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Alaska.Alex-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alaska_alex_agp) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alaska.alex.agp@gmail.com)
 
