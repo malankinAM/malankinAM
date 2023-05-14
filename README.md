@@ -1,6 +1,7 @@
 [![Header](https://github.com/malankinAM/malankinAM/blob/main/assets/676767676.png )](https://t.me/Alaska_alex_agp)
 
-#I am a beginner Frontend Developer!!!!
+#
+I am a frontend developer and ui/ux designer.
 
 
 # Привет, меня зовут Алексей!
