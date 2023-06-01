@@ -21,7 +21,7 @@
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Alaska.Alex-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alaska_alex_agp) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alaska.alex.agp@gmail.com)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malankinAM&label=Profile%20views&color=0e75b6&style=flat" alt="malankinAM" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malankinAM" alt="malankinAM" /></a> </p>
 
