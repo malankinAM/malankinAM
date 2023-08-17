@@ -54,9 +54,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="60" height="60"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" title="J.qure" alt="J.qure" width="60" height="60"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="ts" alt="ts" width="60" height="60"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="60" height="60"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" title="J.qure" alt="J.qure" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="ts" alt="ts" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp
  
  
 </div>
