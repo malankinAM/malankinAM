@@ -14,7 +14,7 @@
 
 - :telescope: Продолжаю изучать веб-разработку на курсах Udemy  и заинтересовался веб дизайном!
 
-- :seedling: Очень хочу попасть в Школу 21 и попаду на основное обучение.
+- :seedling: Очень хочу попасть в Google и попаду на основное обучение.
 
 - :zap: Хочу освоить новую проффесию web дизайнер и изучить EN
 
@@ -57,6 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" title="J.qure" alt="J.qure" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="ts" alt="ts" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp
+  <img src="https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17" title="fr" alt="fr" width="40" height="40"/>&nbsp
  
  
 </div>
