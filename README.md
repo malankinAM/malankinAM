@@ -4,19 +4,20 @@
 # I am a frontend developer and ui/ux designer!
 
 
-# Привет, меня зовут Алексей!
+#  Hello, my name is Alexey!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с Университета 20.35, где я учился по программе Цифровая проффесия на Frontend Developer. Так же закончил гос курс по повышению квалификации на UX/UI проектировщика интерфесов в ГБОУДПО Центр"Профессионал"
+ I'm a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into it began with the University 20.35, where I studied in the Digital Profession program at Frontend Developer. where I studied in the Digital Profession program at Frontend Developer
 
-- :telescope: Продолжаю изучать веб-разработку на курсах Udemy  и заинтересовался веб дизайном!
+- :telescope:dropdown arrow
+I continue to study web development through Udemy courses and have become interested in web design!
+- :seedling:
+I really want to get into Google and get into basic training..
 
-- :seedling: Очень хочу попасть в Google и попаду на основное обучение.
-
-- :zap: Хочу освоить новую проффесию web дизайнер и изучить EN
+- :zap: I want to master a new profession as a web designer and study EN
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Alaska.Alex-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alaska_alex_agp) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alaska.alex.agp@gmail.com)
 
@@ -27,7 +28,7 @@
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/aleksey-malankin-0b083926a/" target="_blank">
@@ -40,7 +41,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -65,7 +66,8 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 
+Tools:
 
 <div>
 
@@ -77,7 +79,7 @@
 
 ---
 
-### 💻 Пройденные курсы:
+### 💻Courses completed:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
@@ -97,7 +99,8 @@
 
 ![codewars](https://www.codewars.com/users/Alaska.alex.agp/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub 
+statistics:
 
 <table>
   <tr>
